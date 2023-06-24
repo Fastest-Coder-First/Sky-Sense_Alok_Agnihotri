@@ -10,12 +10,9 @@ It is command line weather forecasting tool written in python programming langua
 ![Screenshot 2023-06-24 160836](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/7b1a145b-6300-4288-bc77-0ee7c0a82f58)
 ![Screenshot 2023-06-24 160738](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/adaa5481-5b9d-412e-b3e2-4af92e315102)
 
-
-
 # This is the Architecture diagram for Sky Sense Weather Forecast Application:-
 
-
-
+![Screenshot 2023-06-24 163330](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/a3e43f70-2166-4615-bd9e-bc9ce8661b04)
 
 # The GitHub use cases I used and helped me in my submission are:-
 
