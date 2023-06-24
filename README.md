@@ -5,14 +5,16 @@ It is command line weather forecasting tool written in python programming langua
 
 # These are the screenshots of my Sky Sense Weather Forecast Application:-
 
-![Screenshot 2023-06-24 160621](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/e747f68b-f88e-4008-9043-2e6abc615fd1)
-![Screenshot 2023-06-24 160659](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/6265b634-3e46-479b-884e-85ed4132a0f9)
-![Screenshot 2023-06-24 160836](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/1bc698ba-8b94-436f-8783-071e05140b12)
-![Screenshot 2023-06-24 160738](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/b1d29a84-3a25-4efb-a2d0-12851b99e37e)
+![Screenshot 2023-06-24 160621](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/4e76cce4-e852-437c-8dd0-e2da2415dc2c)
+![Screenshot 2023-06-24 160659](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/04ac48ca-32ac-45ba-8750-7ced7f2e4d4c)
+![Screenshot 2023-06-24 160836](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/7b1a145b-6300-4288-bc77-0ee7c0a82f58)
+![Screenshot 2023-06-24 160738](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/adaa5481-5b9d-412e-b3e2-4af92e315102)
+
+
 
 # This is the Architecture diagram for Sky Sense Weather Forecast Application:-
 
-![Screenshot 2023-06-24 163330](https://github.com/Fastest-Coder-First/Sky-Sense_Alok_Agnihotri/assets/96953120/5a36b2bf-7e93-4b95-8050-3b1d45e041c0)
+
 
 
 # The GitHub use cases I used and helped me in my submission are:-
