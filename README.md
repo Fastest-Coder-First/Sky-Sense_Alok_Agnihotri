@@ -21,6 +21,15 @@ It is command line weather forecasting tool written in python programming langua
 3. Documentation: I also used the Documentation use case of GitHub as it provide developers with a space for project documentation, such as README files or documentation folders. Developers can use these features to document the project's setup instructions, usage guidelines, API references, and other relevant information.
 4. GitHub Copilot: GitHub Copilot is one of the most amazing use case of GitHub as it helped me a lot in my devleopment work of this application. All the general and boilerplate code and codes of some fnctions also got automatically generated and completed by the GitHub copilot saving my time and also enhancing my productivity.
 
+# Usage of GitHub Copilot in different scenarios is as follows:-
+
+1. Creating an API request code
+2. Recommendations for addressing errors
+3. Finishing up code templates
+4. Giving function signatures
+5. Code snippets and autocompletion
+6. Finishing the printing and formatting
+
 # To run this application in your system follow these steps:-
 1. First clone the full GitHub repository in your system using the "git clone" command from your terminal.
 2. Then navigate to the directory where you have cloned the repository using "cd" command from the terminal.
