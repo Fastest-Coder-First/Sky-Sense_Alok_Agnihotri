@@ -1,8 +1,8 @@
 import requests
 from colorama import Fore, Style
 
-API_KEY = 'b92cb7cc5498f01646e94612867f0ea8'
-BASE_URL = 'http://api.openweathermap.org/data/2.5/'
+API_KEY = '#YOUR OWN OPEN WEATHER MAP API KEY'
+BASE_URL = '#YOUR OWN OPEN WEATHER MAP BASE URL'
 
 def get_weather_forecast(city_name, print_current_forecast=False):
     """
